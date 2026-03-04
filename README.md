@@ -8,6 +8,7 @@
 ![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=ffffff)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=ffffff)
 ![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=ffffff)
+![C#](https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=csharp&logoColor=ffffff)
 
 ### -> Contato
   
