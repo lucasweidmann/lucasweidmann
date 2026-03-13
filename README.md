@@ -12,7 +12,7 @@
 
 ### -> Contato
   
-<a href="mailto:weidmlucas@gmail.com">
+<a href="mailto:lucasweidmann.contato@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=ffffff">
 </a>
 
